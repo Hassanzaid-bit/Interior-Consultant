@@ -58,14 +58,14 @@ body{
         margin-top: 20px;
     }
     .content-text p {
-        width: 30ch;
+        width: 27ch;
         font-family: 'Montserrat', sans-serif;
         font-style: normal;
         font-weight: 300;
         font-size: 14px;
-        line-height: 17px;
+        line-height: 17.07px;
         color: #FFFFFF;
-        margin: 35px 0;
+        margin: 25px 0;
     }
     .content-text h1 {
         font-family: 'Lora', serif;
